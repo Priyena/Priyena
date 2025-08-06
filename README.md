@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Priyanshi** is a ✨ aspiring data scientist✨.
+**Priyansh** is a ✨ aspiring data scientist✨.
 
 Here are some ideas to get you started:
 
